@@ -10,6 +10,8 @@ def second_challenge
   out << groceries.values
   out.each do |i|
     i.concat(i)
+  end
+  out
   
 
 end
