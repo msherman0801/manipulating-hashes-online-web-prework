@@ -8,7 +8,7 @@ def second_challenge
 
   out = []
   out << groceries.values
-  out.flatten
+  out.flatten = new Array
   
 
 end
