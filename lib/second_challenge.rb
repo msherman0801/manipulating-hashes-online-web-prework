@@ -8,7 +8,7 @@ def second_challenge
 
     out = []
   out << groceries.values
-  puts out
+  out
   
 
 end
