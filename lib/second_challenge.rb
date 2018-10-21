@@ -6,9 +6,7 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-  goceries.each do |key, v|
-    puts key.value
-  end
+  puts groceries.values
   
 
 end
