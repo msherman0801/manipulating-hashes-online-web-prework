@@ -13,7 +13,7 @@ def first_challenge
     }
   }
 
-  #your code here
+  putws contacts["Freddy Mercury"]
 
 
   #remember to return your newly altered contacts hash!
