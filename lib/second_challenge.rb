@@ -8,7 +8,8 @@ def second_challenge
 
     out = []
   out << groceries.values
-  out
+  out.each do |i|
+    i.concat(i)
   
 
 end
