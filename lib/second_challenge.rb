@@ -9,6 +9,7 @@ def second_challenge
   out = []
   out << groceries.values
   outt = out.flatten
+  outt
   
 
 end
