@@ -6,7 +6,9 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-  puts groceries.values
+    out = []
+  out << groceries.values
+  puts out
   
 
 end
